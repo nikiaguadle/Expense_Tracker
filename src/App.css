@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    flex-direction: column;
+   justify-items:center ;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aliceblue;
+    width: 400px;
+    margin-left: 80px;
+    height:1000px;
+}
